@@ -15,9 +15,9 @@ No additional installation is required since both libraries are included with Py
 ## Usage
 Run the Python script using the following command:
 ```sh
-python snake_game.py
+python main.py
 ```
-Replace `snake_game.py` with the actual filename of your Python script.
+Replace `main.py` with the actual filename of your Python script if different.
 
 ## Features
 - Classic Snake gameplay
@@ -27,5 +27,4 @@ Replace `snake_game.py` with the actual filename of your Python script.
 
 ## License
 This project is open-source and free to use. Modify and distribute as needed.
-
 
